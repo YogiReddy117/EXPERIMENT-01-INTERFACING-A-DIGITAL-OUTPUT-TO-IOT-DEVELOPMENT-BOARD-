@@ -4,6 +4,7 @@
     Name : Pallari Yogi
     Reg : 212220040108
     dept : cse
+    t;837
 ```
 
 ## Aim: To Interface a Digital output (LED) to ARM IOT development board and write a  program to blink an led 
